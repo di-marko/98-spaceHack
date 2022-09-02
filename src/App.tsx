@@ -1,4 +1,4 @@
-import './App.js';
+import './App.scss';
 import Header from './components/Header/Header';
 import Featured from './components/Featured/Featured';
 import Main from './components/Main/Main';
